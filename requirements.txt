@@ -1,0 +1,10 @@
+deap
+mlflow
+pandas
+scikit-learn
+nltk
+spacy
+gensim
+mosestokenizer
+datasets
+rouge_score
